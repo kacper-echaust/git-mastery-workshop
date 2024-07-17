@@ -10,8 +10,11 @@ Git is a distributed version control system that allows you to track changes in 
 
 To participate in this workshop, you will need:
 
-- A computer with Git installed (Download: [https://git-scm.com/downloads](https://git-scm.com/downloads))
-- A text editor of your choice (e.g., Visual Studio Code, Sublime Text, or Atom)
+-   A computer with Git installed (Download: [https://git-scm.com/downloads](https://git-scm.com/downloads))
+-   A text editor of your choice (e.g., Visual Studio Code, Sublime Text, or Atom)
+
+<<<<<<< HEAD
 
 ### Space for conflict
+
 Did you know that you can use `git blame` to find out who last modified each line of a file? Just run `git blame <file>` to see the commit hash and author for each line.
